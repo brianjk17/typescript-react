@@ -1,0 +1,14 @@
+{
+  "short_name": "MyBiz",
+  "name": "RHB MyBiz",
+  "icons": [
+    {
+      "src": "https://smebanking.rhbgroup.com/apps/MYRHBSMECJ2S/1668400111370/desktopweb/images/favicon.ico?ver=1668400111370",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
